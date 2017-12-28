@@ -16,7 +16,7 @@ The database includes three tables:
 - Vagrant
 - Virtual Box
 
-#Getting Started        
+# Getting Started        
 
 ## Instructions On How TO Run The Given Project:
 - Install Vagrant and Virtual Box.
